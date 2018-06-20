@@ -1,0 +1,17 @@
+.dub
+docs.json
+dub.selections.json
+__dummy.html
+docs/
+libsheepy.so
+libsheepy.dylib
+libsheepy.dll
+libsheepy.a
+libsheepy.lib
+libsheepy-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.dll
+*.lib

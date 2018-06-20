@@ -1,0 +1,13 @@
+{
+	"name": "lib-sheepy",
+	"authors": [
+		"Computermatronic"
+	],
+	"dependencies": {
+		"vibe-d": "~>0.8.2"
+	},
+	"targetType": "library",
+	"description": "A Politics and War API client.",
+	"copyright": "Copyright © 2018, Computermatronic",
+	"license": "MIT"
+}
